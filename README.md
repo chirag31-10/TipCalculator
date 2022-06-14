@@ -1,2 +1,2 @@
 # TipCalculator
- A website for calculating tip for a bill.
+Calculating tip for a bill using JavaScript.
